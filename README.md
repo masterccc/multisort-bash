@@ -14,3 +14,5 @@ e : extension
 p : owner
 t : file type
 g : group
+
+![alt text](https://raw.githubusercontent.com/masterccc/multisort-bash/master/screenshot.png)
